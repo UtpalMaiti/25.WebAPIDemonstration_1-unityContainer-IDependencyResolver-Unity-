@@ -2,6 +2,7 @@
 
     LoadEmployees();
 
+
     $("#btnGet").click(function () {
 
         $.ajax({
