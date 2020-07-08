@@ -1,0 +1,6 @@
+namespace JwtImplemention.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
